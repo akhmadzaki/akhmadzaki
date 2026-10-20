@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://www.linkedin.com/in/akhmadzaki/](https://www.linkedin.com/in/akhmadzaki/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/14jOPEcYb86XWGlRaTGeoPPAgQq3JlEmu/view?usp=drive_link](https://drive.google.com/file/d/14jOPEcYb86XWGlRaTGeoPPAgQq3JlEmu/view?usp=drive_link)**
+- 📄 Know about my experiences **[Resume](https://bit.ly/3WfwdZV)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
