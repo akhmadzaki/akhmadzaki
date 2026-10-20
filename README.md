@@ -2,10 +2,6 @@
 
 ### A passionate backend engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhmadzaki&label=Profile views&color=0e75b6&style=flat" alt="akhmadzaki" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhmadzaki" alt="akhmadzaki" /></a> </p>
-
 - 🔭 I'm currently working on **a starter API skeleton using Go + Gin framework**
 
 - 🌱 I'm currently learning **Golang, Docker, Github Actions, AI Agent**
