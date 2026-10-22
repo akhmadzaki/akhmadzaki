@@ -1,6 +1,6 @@
 # Hi 👋, I'm Akhmad Zaki
 
-### A passionate backend engineer
+### A passionate backend engineer with 4+ years experience
 
 - 🔭 I'm currently working on **a starter API skeleton using Go + Gin framework**
 
