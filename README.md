@@ -4,15 +4,15 @@
 
 - 🔭 I'm currently working on **a starter API skeleton using Go + Gin framework**
 
-- 🌱 I'm currently learning **Golang, Docker, Github Actions, AI Agent**
+- 🌱 I'm currently learning **Golang, Docker, Github Actions, AI Agent, Blockchain**
 
-- 💬 Ask me about **Java Spring, PostgreSQL, and REST API development**
+- 💬 Ask me about **Spring Boot, PostgreSQL, and REST API development**
 
 - 📫 How to reach me **akhmadzaki2@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://www.linkedin.com/in/akhmadzaki/](https://www.linkedin.com/in/akhmadzaki/)**
 
-- 📄 Know about my experiences **[Resume](https://bit.ly/4sAgtNv)**
+- 📄 Know about my experiences **[Resume](https://bit.ly/3TW36KD)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
